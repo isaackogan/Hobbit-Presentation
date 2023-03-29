@@ -1,0 +1,8 @@
+{
+  "short_name": "War of the Worlds",
+  "name": "War of the Worlds",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
